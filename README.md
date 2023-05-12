@@ -2,7 +2,7 @@
 
 MEHMET YILDIZ 
 
-Working as an Electrical Automation Engineer in IT Department of KIPAS HOLDING  
+Working as an Full Stack Developer in IT Department of ILBANK  
 
 Freelence - Designing Web, Windows Cloud Applications via React.js, WPF, ASP.Net Core, ASP.Net
 
