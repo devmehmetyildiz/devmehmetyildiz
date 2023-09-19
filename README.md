@@ -2,7 +2,7 @@
 
 MEHMET YILDIZ 
 
-Working as an Full Stack Developer in IT Department of ILBANK  
+Working as an Software Developer in Mirsis Information Tecnologies
 
 Freelence - Designing Web, Windows Cloud Applications via React.js, WPF, ASP.Net Core, ASP.Net
 
